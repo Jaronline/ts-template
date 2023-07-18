@@ -570,6 +570,40 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@jaronline/ts-template@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@jaronline/ts-template@workspace:."
+  dependencies:
+    "@commitlint/cli": ^17.6.6
+    "@commitlint/config-conventional": ^17.6.6
+    "@favware/cliff-jumper": ^2.1.1
+    "@favware/npm-deprecate": ^1.0.7
+    "@favware/rollup-type-bundler": ^2.0.0
+    "@sapphire/eslint-config": ^4.4.3
+    "@sapphire/ts-config": ^4.0.0
+    "@types/eslint": ^8.44.0
+    "@types/node": ^18.16.19
+    "@typescript-eslint/eslint-plugin": ^5.62.0
+    "@typescript-eslint/parser": ^5.62.0
+    "@vitest/coverage-v8": ^0.33.0
+    esbuild-plugin-file-path-extensions: ^1.0.0
+    esbuild-plugin-version-injector: ^1.2.0
+    eslint: ^8.45.0
+    eslint-config-prettier: ^8.8.0
+    eslint-plugin-deprecation: ^1.4.1
+    eslint-plugin-prettier: ^4.2.1
+    gen-esm-wrapper: ^1.1.3
+    husky: ^8.0.3
+    lint-staged: ^13.2.3
+    pinst: ^3.0.0
+    prettier: ^2.8.8
+    pretty-quick: ^3.1.3
+    tsup: ^7.1.0
+    typescript: ^5.1.6
+    vitest: ^0.33.0
+  languageName: unknown
+  linkType: soft
+
 "@jest/schemas@npm:^29.6.0":
   version: 29.6.0
   resolution: "@jest/schemas@npm:29.6.0"
@@ -680,40 +714,6 @@ __metadata:
   checksum: a50a6818de5fc557d0b0e6f50ec780a7a02ab8ad07e5ac8b16bf519e0ad60a144ac64f97d05c443c3367235d337182e1d012bbac0eb8dbae8dc7b40b193efd0e
   languageName: node
   linkType: hard
-
-"@pixelpizza/ts-template@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "@pixelpizza/ts-template@workspace:."
-  dependencies:
-    "@commitlint/cli": ^17.6.6
-    "@commitlint/config-conventional": ^17.6.6
-    "@favware/cliff-jumper": ^2.1.1
-    "@favware/npm-deprecate": ^1.0.7
-    "@favware/rollup-type-bundler": ^2.0.0
-    "@sapphire/eslint-config": ^4.4.3
-    "@sapphire/ts-config": ^4.0.0
-    "@types/eslint": ^8.44.0
-    "@types/node": ^18.16.19
-    "@typescript-eslint/eslint-plugin": ^5.62.0
-    "@typescript-eslint/parser": ^5.62.0
-    "@vitest/coverage-v8": ^0.33.0
-    esbuild-plugin-file-path-extensions: ^1.0.0
-    esbuild-plugin-version-injector: ^1.2.0
-    eslint: ^8.45.0
-    eslint-config-prettier: ^8.8.0
-    eslint-plugin-deprecation: ^1.4.1
-    eslint-plugin-prettier: ^4.2.1
-    gen-esm-wrapper: ^1.1.3
-    husky: ^8.0.3
-    lint-staged: ^13.2.3
-    pinst: ^3.0.0
-    prettier: ^2.8.8
-    pretty-quick: ^3.1.3
-    tsup: ^7.1.0
-    typescript: ^5.1.6
-    vitest: ^0.33.0
-  languageName: unknown
-  linkType: soft
 
 "@pkgjs/parseargs@npm:^0.11.0":
   version: 0.11.0

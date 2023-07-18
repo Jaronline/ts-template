@@ -1,6 +1,6 @@
 name: ts-template
 packagePath: .
-org: pixelpizza
+org: jaronline
 monoRepo: false
 commitMessageTemplate: "chore(release): release {{new-version}}"
 tagTemplate: v{{new-version}}

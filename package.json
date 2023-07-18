@@ -1,5 +1,5 @@
 {
-	"name": "@pixelpizza/ts-template",
+	"name": "@jaronline/ts-template",
 	"version": "1.0.0",
 	"description": "Template for creating TypeScript projects",
 	"main": "dist/index.js",
@@ -33,15 +33,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/PixelPizza/ts-template.git"
+		"url": "git+https://github.com/Jaronline/ts-template.git"
 	},
 	"keywords": [],
-	"author": "@pixelpizza",
+	"author": "@jaronline",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/PixelPizza/ts-template/issues"
+		"url": "https://github.com/Jaronline/ts-template/issues"
 	},
-	"homepage": "https://github.com/PixelPizza/ts-template#readme",
+	"homepage": "https://github.com/Jaronline/ts-template#readme",
 	"devDependencies": {
 		"@commitlint/cli": "^17.6.6",
 		"@commitlint/config-conventional": "^17.6.6",
